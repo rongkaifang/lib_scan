@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_alert_dialog"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="8dp"
+        android:text="权限请求"
+        android:textColor="@color/b26"
+        android:textSize="@dimen/T07"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="6dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:lineHeight="24dp"
+        android:text="在设置-应用程序-好分数教师端-权限中开启\n相机权限,以正常使用拍照、扫一扫\n等功能"
+        android:textColor="@color/b26"
+        android:textSize="@dimen/T04" />
+
+    <View
+        style="@style/YxLine.1"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/permissionCancelTv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="取消"
+            android:textColor="@color/b26"
+            android:textSize="@dimen/T07" />
+
+        <View
+            style="@style/YxLine.1"
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/permissionSettingTv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="去设置"
+            android:textColor="@color/b24"
+            android:textSize="@dimen/T07" />
+    </LinearLayout>
+
+</LinearLayout>

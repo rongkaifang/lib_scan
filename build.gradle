@@ -1,0 +1,54 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext.kotlin_version = '1.2.71'
+    ext.anko_version = '0.10.1'
+
+    repositories {
+        maven { url 'http://nexus.iyunxiao.com/repository/maven-public/' }
+        maven { url "https://dl.bintray.com/thelasterstar/maven/" }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.4'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+
+        //Kotlin
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        //配置libraries本地路径，优先使用本地aar
+        maven { url uri('../repo') }
+
+        maven { url 'http://nexus.iyunxiao.com/repository/maven-public/' }
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+ext {
+    //配置
+    configuration = [
+            buildToolsVersion: "28.0.3",
+            compileVersion   : 29,
+            minSdk           : 17,
+            targetSdk        : 28,
+
+    ]
+    //libs
+    libraries = [
+            supportVersion : "28.0.0",
+            multidex       : "1.0.3",
+            butterknife    : "9.0.0",
+            glide          : "4.7.1",
+            eventbus       : "3.1.1",
+            arouterApi     : "1.4.1",
+            arouterCompiler: "1.2.2",
+    ]
+    versionName = "2.20.0"
+}

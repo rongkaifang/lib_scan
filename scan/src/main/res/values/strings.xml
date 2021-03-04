@@ -1,0 +1,19 @@
+<resources>
+
+    <!--    扫码登录-->
+    <string name="scan_tips">将二维码放入框内，即可自动扫描</string>
+    <string name="open_flash_light">打开手电筒</string>
+    <string name="close_flash_light">关闭手电筒</string>
+    <string name="zxing_url">http://code.google.com/p/zxing</string>
+    <string name="flash">闪光灯</string>
+    <string name="button_web_search">Web search</string>
+    <string name="result_text">Found plain text</string>
+
+    <string name="scan_result_title">爱云校精准教学平台</string>
+    <string name="scan_result_center_title_top">您将登录爱云校精准教学平台</string>
+    <string name="scan_result_center_title_top_fail">登录失败，请重新扫码登录</string>
+    <string name="scan_result_center_button_confirm">确认登录</string>
+    <string name="scan_result_center_button_relogin">重新扫码登录</string>
+    <string name="scan_result_error_title">扫描结果</string>
+
+</resources>

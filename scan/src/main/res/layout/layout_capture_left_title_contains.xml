@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/leftIconTv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:drawableLeft="@drawable/capture_left_icon_white_back"
+    android:drawablePadding="12dp"
+    android:paddingLeft="14dp"
+    android:text="扫描二维码"
+    android:textColor="@color/c01"
+    android:textSize="@dimen/T10"
+    tools:ignore="MissingDefaultResource" />
+
