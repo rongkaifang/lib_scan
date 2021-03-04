@@ -5,7 +5,6 @@ buildscript {
 
     repositories {
         maven { url 'http://nexus.iyunxiao.com/repository/maven-public/' }
-        maven { url "https://dl.bintray.com/thelasterstar/maven/" }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.1.4'
@@ -20,11 +19,9 @@ buildscript {
 
 allprojects {
     repositories {
-        //配置libraries本地路径，优先使用本地aar
-        maven { url uri('../repo') }
 
-        maven { url 'http://nexus.iyunxiao.com/repository/maven-public/' }
         maven { url 'https://jitpack.io' }
+        maven { url 'http://nexus.iyunxiao.com/repository/maven-public/' }
     }
 }
 
