@@ -1,10 +1,11 @@
 package com.example.myapplication;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.yunxiao.base.YxBaseActivity;
+
+public class MainActivity extends YxBaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
