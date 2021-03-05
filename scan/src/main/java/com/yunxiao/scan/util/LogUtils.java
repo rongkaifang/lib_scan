@@ -1,6 +1,8 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.util;
 
 import android.util.Log;
+
+import com.yunxiao.scan.BuildConfig;
 
 
 public class LogUtils {

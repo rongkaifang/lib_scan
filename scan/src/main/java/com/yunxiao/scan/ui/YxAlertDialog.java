@@ -1,4 +1,4 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.ui;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -21,6 +21,8 @@ import android.view.animation.Animation;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.yunxiao.scan.R;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

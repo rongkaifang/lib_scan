@@ -1,4 +1,4 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.util;
 
 import android.app.ActivityManager;
 import android.app.Application;

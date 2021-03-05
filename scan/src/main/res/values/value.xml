@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="a01">#F6F7FA</color>
+    <color name="a02">#ECEEF2</color>
+    <color name="a03">#DADDE5</color>
+    <color name="a04">#B7BBC3</color>
+    <color name="a05">#9FA3AE</color>
+    <color name="a06">#7F838D</color>
+    <color name="a06_50">#7F7F838D</color>
+    <color name="a07">#6F86A6</color>
+    <color name="a08">#AEBACC</color>
+    <color name="a08_50">#80AEBACC</color>
+    <color name="a09">#646F81</color>
+    <color name="a10">#EAB127</color>
+    <color name="a11">#FFEA6B</color>
+    <color name="a12">#DE5D44</color>
+    <color name="a13">#00A2D8</color>
+    <color name="a14">#4FB055</color>
+    <color name="a15">#2D3138</color>
+    <color name="a16">#343940</color>
+    <color name="a16_95">#F2343940</color>
+    <color name="b01">#1DAEF8</color>
+    <color name="b01_50">#801DAEF8</color>
+    <color name="b01_80">#CC1DAEF8</color>
+    <color name="b01_a90">#E61DAEF8</color>
+    <color name="b02">#3D6EB8</color>
+    <color name="b03">#2BD1C6</color>
+    <color name="b03_a50">#801BB6EF</color>
+    <color name="b03_a60">#991BB6EF</color>
+    <color name="b04">#69C170</color>
+    <color name="b05">#5AC4C4</color>
+    <color name="b06">#F7BE38</color>
+    <color name="b07">#F6953D</color>
+    <color name="b08">#EE6B52</color>
+    <color name="b08_a50">#80EE6B52</color>
+    <color name="b09">#9B83D5</color>
+    <color name="b10">#C5E9F8</color>
+    <color name="b11">#6D717B</color>
+    <color name="b11_a50">#8039ABDB</color>
+    <color name="b12">#E0F4FC</color>
+    <color name="b13">#95CFEC</color>
+    <color name="b14">#D5F3FF</color>
+    <color name="b15">#313E4F</color>
+    <color name="b16">#EDF9FF</color>
+    <color name="b17">#DADDE5</color>
+    <color name="b18">#D1D5DE</color>
+    <color name="b19">#AEBACC</color>
+    <color name="b20">#6CB6FF</color>
+    <color name="b21">#1DAEF8</color>
+    <color name="b22">#4C637B</color>
+    <color name="b23">#003242</color>
+    <color name="b24">#2097FF</color>
+    <color name="b24_10">#1A2097FF</color>
+    <color name="b24_30">#B32097FF</color>
+    <color name="b24_50">#802097FF</color>
+    <color name="b24_70">#4C2097FF</color>
+    <color name="b24_80">#802097FF</color>
+    <color name="b25">#899099</color>
+    <color name="b25_15">#26899099</color>
+    <color name="b26">#353B45</color>
+    <color name="b27">#646F81</color>
+    <color name="b27_33">#55646F81</color>
+    <color name="b27_50">#80646F81</color>
+    <color name="b28">#7C889C</color>
+    <color name="b29">#434D5D</color>
+    <color name="b30">#0772CC</color>
+    <color name="b30_50">#800772CC</color>
+    <color name="b31">#F5F6FA</color>
+    <color name="b31_90">#E6F5F6FA</color>
+    <color name="b32">#7CC7FF</color>
+    <color name="b33">#232628</color>
+    <color name="b35">#DCE2EA</color>
+    <color name="b36">#EFF8FF</color>
+    <color name="c01">#FFFFFF</color>
+    <color name="c01_10">#1AFFFFFF</color>
+    <color name="c01_20">#33FFFFFF</color>
+    <color name="c01_30">#4DFFFFFF</color>
+    <color name="c01_50">#80FFFFFF</color>
+    <color name="c01_60">#99FFFFFF</color>
+    <color name="c01_70">#B3FFFFFF</color>
+    <color name="c01_78">#C7FFFFFF</color>
+    <color name="c01_80">#CCffffff</color>
+    <color name="c01_90">#E6ffffff</color>
+    <color name="c01_a20">#40FFFFFF</color>
+    <color name="c01_a50">#80FFFFFF</color>
+    <color name="c01_a85">#D9FFFFFF</color>
+    <color name="c02">#FAFAFA</color>
+    <color name="c02_70">#B3FAFAFA</color>
+    <color name="c03">#F2F2F2</color>
+    <color name="c04">#E6E6E6</color>
+    <color name="c04_50">#80E6E6E6</color>
+    <color name="c05">#D9D9D9</color>
+    <color name="c05_50">#80D9D9D9</color>
+    <color name="c06">#CCCCCC</color>
+    <color name="c07">#999999</color>
+    <color name="c07_a14">#24999999</color>
+    <color name="c08">#B1B1B1</color>
+    <color name="c09">#999999</color>
+    <color name="c09_a50">#80999999</color>
+    <color name="c10">#6A6A6A</color>
+    <color name="c11">#666666</color>
+    <color name="c11_a16">#29191919</color>
+    <color name="c12">#333333</color>
+    <color name="c13">#000000</color>
+    <color name="c13_a30">#4D000000</color>
+    <color name="c13_a40">#66000000</color>
+    <color name="c13_a50">#80000000</color>
+    <color name="c13_a60">#99000000</color>
+    <color name="c13_a70">#B3000000</color>
+    <color name="c13_a93">#12000000</color>
+    <color name="c14">#FDFDFD</color>
+    <color name="c15">#343940</color>
+    <color name="c16">#3B3B3B</color>
+    <color name="c17">#F5F7F8</color>
+    <color name="c18">#EEEEEF</color>
+    <color name="c19">#E7E7E7</color>
+    <color name="c20">#BFBFBF</color>
+    <color name="c21">#D2D2D2</color>
+    <color name="c22">#aaaaaa</color>
+    <color name="c23">#7A7A7A</color>
+    <color name="c24">#414141</color>
+    <color name="c25">#272727</color>
+    <color name="c26">#191919</color>
+    <color name="c27">#F6F6F6</color>
+    <color name="g01">#50C059</color>
+    <color name="g01_a14">#2450C059</color>
+    <color name="g02">#3CA845</color>
+    <color name="g03">#00C89D</color>
+    <color name="o01">#F68926</color>
+    <color name="o02">#FFA100</color>
+    <color name="o02_10">#1AFFA100</color>
+    <color name="o03">#FF8A56</color>
+    <color name="o04">#FF8453</color>
+    <color name="o05">#FFD5C3</color>
+    <color name="o05_30">#4DFFD5C3</color>
+    <color name="o05_40">#66FFD5C3</color>
+    <color name="o06">#FF8065</color>
+    <color name="o07">#FFEEE7</color>
+    <color name="o08">#FF6200</color>
+    <color name="o09">#FFEEDF</color>
+    <color name="orange_button_default">#FFB000</color>
+    <color name="orange_button_pressed">#F2A700</color>
+    <color name="p01">#9171DD</color>
+    <color name="p01_00">#009171DD</color>
+    <color name="p01_20">#339171DD</color>
+    <color name="p02">#F66AB9</color>
+    <color name="r01">#F4664B</color>
+    <color name="r01_20">#33F4664B</color>
+    <color name="r01_30">#4DF4664B</color>
+    <color name="r01_70">#B3F4664B</color>
+    <color name="r01_a14">#24F4664B</color>
+    <color name="r02">#77352A</color>
+    <color name="r03">#F8A187</color>
+    <color name="r04">#CF6353</color>
+    <color name="r04_50">#80CF6353</color>
+    <color name="r05">#F15543</color>
+    <color name="r05_50">#80F15543</color>
+    <color name="r06">#D6CDCB</color>
+    <color name="r06_50">#80D6CDCB</color>
+    <color name="r07">#998A87</color>
+    <color name="r07_50">#80998A87</color>
+    <color name="r08">#766864</color>
+    <color name="r09">#BFB2B0</color>
+    <color name="r09_20">#33BFB2B0</color>
+    <color name="r09_50">#80BFB2B0</color>
+    <color name="r10">#8A7B76</color>
+    <color name="r11">#4E3F3C</color>
+    <color name="r11_50">#804E3F3C</color>
+    <color name="r12">#282423</color>
+    <color name="r12_50">#8054423D</color>
+    <color name="r13">#FCC3B8</color>
+    <color name="r13_30">#4DFCC3B8</color>
+    <color name="r14">#A44132</color>
+    <color name="r14_20">#33A44132</color>
+    <color name="r14_50">#80A44132</color>
+    <color name="r15">#EBE7E6</color>
+    <color name="r15_40">#66EBE7E6</color>
+    <color name="r15_80">#CCEBE7E6</color>
+    <color name="r16">#7B635C</color>
+    <color name="r16_50">#807B635C</color>
+    <color name="r17">#EC2A2A</color>
+    <color name="r18">#CB4426</color>
+    <color name="r18_30">#4DCB4426</color>
+    <color name="r19">#F46C60</color>
+    <color name="r20">#FF9A84</color>
+    <color name="r21">#FC5A44</color>
+    <color name="r22">#54423D</color>
+    <color name="r23">#FF6194</color>
+    <color name="r23_a30">#B3FF6194</color>
+    <color name="r23_a70">#4CFF6194</color>
+    <color name="transparent">#00000000</color>
+    <color name="y01">#EFCA73</color>
+    <color name="y01_70">#B3EFCA73</color>
+    <color name="y02">#FFE8B4</color>
+    <color name="y03">#FEF7E4</color>
+    <color name="y04">#FFBF00</color>
+    <color name="y04_00">#00FFBF00</color>
+    <color name="y04_10">#1AFFBF00</color>
+    <color name="y04_20">#33FFBF00</color>
+    <color name="y05">#BAAEA1</color>
+    <color name="y05_10">#1ABAAEA1</color>
+    <color name="y06">#DFD8CE</color>
+    <color name="y07">#F8B131</color>
+    <color name="y07_a14">#24F8B131</color>
+    <color name="y08">#FBD627</color>
+    <color name="y09">#FCF4DC</color>
+    <color name="y10">#E1BA04</color>
+    <color name="y11">#D69A0D</color>
+    <color name="y11_10">#1AD69A0D</color>
+    <color name="y12">#ECA807</color>
+    <color name="y13">#FFC92A</color>
+    <dimen name="T01">9sp</dimen>
+    <dimen name="T02">10sp</dimen>
+    <dimen name="T03">11sp</dimen>
+    <dimen name="T04">12sp</dimen>
+    <dimen name="T05">13sp</dimen>
+    <dimen name="T06">14sp</dimen>
+    <dimen name="T07">15sp</dimen>
+    <dimen name="T08">16sp</dimen>
+    <dimen name="T09">17sp</dimen>
+    <dimen name="T10">18sp</dimen>
+    <dimen name="T11">19sp</dimen>
+    <dimen name="T12">21sp</dimen>
+    <dimen name="T13">24sp</dimen>
+    <dimen name="T14">22sp</dimen>
+    <dimen name="T15">23sp</dimen>
+    <dimen name="T16">36sp</dimen>
+    <dimen name="T17">30sp</dimen>
+    <dimen name="T18">20sp</dimen>
+    <dimen name="T19">25sp</dimen>
+    <dimen name="btn_b01_radius">18dp</dimen>
+    <dimen name="btn_b03_radius">22.5dp</dimen>
+    <dimen name="btn_b05_radius">20dp</dimen>
+    <dimen name="btn_full_radius">100dp</dimen>
+    <dimen name="titleBarHeight">44dp</dimen>
+
+    <style name="YxLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:background">@color/c04</item>
+    </style>
+
+    <style name="YxLine.1" />
+
+    <style name="YxLine.2">
+        <item name="android:layout_marginLeft">14dp</item>
+    </style>
+
+    <declare-styleable name="YxTextView">
+        <attr name="corners_radius" format="dimension|reference" />
+        <attr name="corners_topLeftRadius" format="dimension|reference" />
+        <attr name="corners_topRightRadius" format="dimension|reference" />
+        <attr name="corners_bottomLeftRadius" format="dimension|reference" />
+        <attr name="corners_bottomRightRadius" format="dimension|reference" />
+
+        <attr name="solid_color" format="color|reference" />
+        <attr name="solid_pressedColor" format="color|reference" />
+        <attr name="solid_disableColor" format="color|reference" />
+
+        <attr name="stroke_color" format="color|reference" />
+        <attr name="stroke_pressedColor" format="color|reference" />
+        <attr name="stroke_disableColor" format="color|reference" />
+
+        <attr name="stroke_width" format="dimension|reference" />
+        <attr name="stroke_pressedWidth" format="dimension|reference" />
+        <attr name="stroke_disableWidth" format="dimension|reference" />
+
+        <attr name="android:textColor" />
+        <attr name="android:drawableLeft" />
+        <attr name="textPressedColor" format="color|reference" />
+        <attr name="textDisableColor" format="color|reference" />
+
+    </declare-styleable>
+    <declare-styleable name="YxTitleBarA">
+        <attr name="titleBarA_leftIcon" format="reference" />
+        <attr name="titleBarA_title" format="string|reference" />
+        <attr name="titleBarA_rightIcon" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="YxTitleBarB">
+        <attr name="titleBarB_leftIcon" format="reference" />
+        <attr name="titleBarB_title" format="string|reference" />
+        <attr name="titleBarB_rightTitle" format="string|reference" />
+    </declare-styleable>
+    <declare-styleable name="YxTitleBarH">
+        <attr name="titleBarH_leftIcon" format="reference" />
+        <attr name="titleBarH_title" format="string|reference" />
+        <attr name="titleBarH_rightIcon" format="reference" />
+    </declare-styleable>
+</resources>

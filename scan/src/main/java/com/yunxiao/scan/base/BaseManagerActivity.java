@@ -1,4 +1,4 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.base;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -8,7 +8,7 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.view.KeyEvent;
 
-import com.yunxiao.base.YxBaseActivity;
+import com.yunxiao.scan.util.CommonUtils;
 
 import java.util.LinkedList;
 

@@ -54,8 +54,12 @@ import com.yunxiao.scan.android.ResultHandler;
 import com.yunxiao.scan.android.ResultHandlerFactory;
 import com.yunxiao.scan.android.ScanConstants;
 import com.yunxiao.scan.android.ViewfinderView;
+import com.yunxiao.scan.base.BaseManagerActivity;
 import com.yunxiao.scan.camera.CameraManager;
-import com.yunxiao.ui2.YxTitleBarB1;
+import com.yunxiao.scan.ui.YxAlertDialog;
+import com.yunxiao.scan.ui.YxTitleBarB1;
+import com.yunxiao.scan.util.ScanMethodUtil;
+import com.yunxiao.scan.util.ToastUtils;
 
 import java.io.IOException;
 import java.util.Collection;

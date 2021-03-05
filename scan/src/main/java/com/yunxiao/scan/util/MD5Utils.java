@@ -1,4 +1,4 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.util;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

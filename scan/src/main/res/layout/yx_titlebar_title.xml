@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:gravity="center"
+    android:textColor="@color/c12"
+    android:textSize="@dimen/T10"
+    android:lines="1"
+    android:ellipsize="end"
+    android:maxEms="13"
+    tools:text="标题">
+
+</TextView>

@@ -1,4 +1,8 @@
 apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
 
 def cfg = rootProject.ext.configuration // 配置
 def libs = rootProject.ext.libraries // 库
@@ -37,10 +41,8 @@ dependencies {
 
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     api 'com.google.zxing:core:3.3.3'
-    api 'com.yunxiao:ui:1.9.7'
     implementation 'me.drakeet.support:toastcompat:1.1.0'
-    api 'com.yunxiao:base:1.1.0'
-
+    api "com.android.support:appcompat-v7:${libs.supportVersion}"
 }

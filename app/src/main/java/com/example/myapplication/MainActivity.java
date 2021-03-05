@@ -3,9 +3,8 @@ package com.example.myapplication;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 
-import com.yunxiao.base.YxBaseActivity;
+import com.yunxiao.scan.base.YxBaseActivity;
 import com.yunxiao.scan.CaptureActivity;
 
 public class MainActivity extends YxBaseActivity {

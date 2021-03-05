@@ -1,4 +1,4 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.util;
 
 import android.content.Context;
 import android.support.annotation.StringRes;

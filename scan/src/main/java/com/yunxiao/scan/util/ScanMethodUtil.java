@@ -1,4 +1,4 @@
-package com.yunxiao.scan;
+package com.yunxiao.scan.util;
 
 import android.Manifest;
 
@@ -12,7 +12,7 @@ import java.util.Arrays;
 public class ScanMethodUtil {
 
     final static String[] permissions = new String[]{Manifest.permission.CAMERA};
-    final static int REQUESTPERMISSION = 0x00;
-    final static int REQUESTACTIVITYCODE = 0x01;
+    public final static int REQUESTPERMISSION = 0x00;
+    public final static int REQUESTACTIVITYCODE = 0x01;
 
 }
